@@ -10,7 +10,8 @@ This project is a simple landing page styled to resemble the Amazon website. It'
 
 ## Live Demo
 
-[View Flixtar Website](https://amznclnnn.netlify.app/)
+[![Amazon Clone](![image](https://github.com/glitter06/amazon-clone/assets/154607169/85cd6cce-e4f7-4eac-ae17-ad931658d412)
+)](https://amznclnnn.netlify.app/)
 
 
 
