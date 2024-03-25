@@ -8,6 +8,9 @@ This project is a simple landing page styled to resemble the Amazon website. It'
 - **Static Content**: Provides static content such as images and text.
 - **Responsive Design**: [Note: Currently not responsive. See below for details.]
 
+## Screenshot
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d92696a0-ae11-4c2d-892b-f2b580831e8b/deploy-status)](https://app.netlify.com/sites/amznclnnn/deploys)
+
 ## Usage
 
 To view the Amazon clone landing page, simply open the `index.html` file in a web browser.
